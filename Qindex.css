@@ -1,0 +1,18 @@
+.index-bar {
+  background-color: #2196F3;
+  color: white;
+  padding: 10px;
+}
+.index-bar ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.index-bar li {
+  list-style: none;
+  margin-right: 20px;
+}
+.index-bar a {
+  color: white;
+  text-decoration: none;
+}
